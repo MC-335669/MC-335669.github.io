@@ -1,43 +1,23 @@
-# Strategic Positioning Document: Smart Glasses (German Market)
+# 02 - Product & Go-To-Market Strategy: KlarBlick AI
 
-## 1. Product Positioning
-**Core Positioning Statement**: 
-"For German professionals and executives who demand effortless productivity without compromising privacy, **AuraVision G1** is the ultra-lightweight optical AI smart glasses that delivers discreet heads-up notifications, teleprompting, and real-time live translation through a camera-free, 100% GDPR-compliant waveguide display seamlessly integrated into classic German optical frames."
+## 1. Brand Identity & Core Positioning
+- **Brand Name:** KlarBlick AI (German for "Clear View")
+- **Target Audience:** Privacy-conscious German professionals, frequent commuters, and field specialists aged 28–55.
+- **Core Positioning Statement:**
+  > Built specifically for privacy-conscious German professionals and commuters, **KlarBlick AI** is the first lightweight smart glasses line engineered with true *Privacy by Design*—offering a **camera-free Pure Display edition** alongside a **mechanical hardware-shutter Pro edition**, powered by local on-device translation and navigation so you can enjoy hands-free AI assistance in full compliance with EU DSGVO standards.
 
-Unlike camera-laden competitors such as Ray-Ban Meta that trigger intense privacy scrutiny and corporate workplace bans in Germany, AuraVision G1 is completely camera-free, guaranteed compliant with *Betriebsrat* (works council) rules, and crafted from surgical-grade titanium with certified prescription lens support from trusted German opticians.
+## 2. Dual-SKU Product Architecture
+| Attribute | KlarBlick Pure (Hero SKU) | KlarBlick Pro |
+| :--- | :--- | :--- |
+| **Retail Price (incl. 19% VAT)** | **€399** | **€499** |
+| **Camera Hardware** | **None (100% Camera-Free)** | 12 MP POV Camera + High-Visibility Ring LED |
+| **Privacy Mechanism** | Physical microphone mute switch + zero optics | Mechanical slider shutter that physically cuts sensor power |
+| **Display & Audio** | Monocular Micro-LED HUD + directional open-ear speakers | Monocular Micro-LED HUD + directional open-ear speakers |
+| **AI Processing** | 100% Local on paired smartphone (offline capable) | 100% Local on paired smartphone + automatic bystander face-blur |
+| **Battery Life** | Up to 8 hours mixed daily use | Up to 8 hours mixed daily use |
+| **Weight** | 46 g (prescription lens ready) | 49 g (prescription lens ready) |
 
-## 2. Target Segment
-### Primary Segment: The German Corporate Professional & Knowledge Worker
-* **Target Audience**: Corporate managers, legal consultants, software architects, engineers, and financial advisors based in key German commercial centers (Frankfurt, Munich, Stuttgart, Berlin, Hamburg).
-* **Rationale for Initial Focus**:
-  * High willingness-to-pay (€499–€699 price tier).
-  * Immediate workplace utility: discreet teleprompting during client presentations, hands-free calendar/meeting alerts, and confidential real-time translation during EU international meetings.
-  * Zero friction with German corporate privacy policies and Works Councils (*Betriebsräte*) due to the complete absence of recording sensors or cameras.
-
-### Secondary Expansion Segment: The Urban Commuter & Cycling Navigator
-* **Target Audience**: Tech-forward urban commuters and daily cyclists in bike-friendly German cities (Munich, Münster, Freiburg, Berlin).
-* **Rationale**: Offers turn-by-turn navigation directly in the line of sight without requiring riders to look down at their smartphone mount in wet or rainy conditions.
-
-## 3. Differentiation Strategy
-AuraVision G1 differentiates across four pillars tailored to German consumer values:
-
-| Dimension | Ray-Ban Meta | XREAL / AR Goggles | **AuraVision G1 (Our Strategy)** |
-|---|---|---|---|
-| **Privacy & GDPR Compliance** | High friction (cameras, surveillance scrutiny, works council bans) | Neutral (camera sensors for tracking) | **100% Camera-Free & GDPR-Certified (Zero bystander recording concerns)** |
-| **Aesthetics & Weight** | Fashion plastic frame (~50g) | Bulky, futuristic visor (75g–90g) | **Minimalist Bauhaus Titanium Frame (38g, looks like designer eyewear)** |
-| **Optical Display** | None (audio and camera only) | Full color Birdbath FOV (tethered cable) | **Discreet Monochrome Green Micro-LED Waveguide (Floating HUD, wireless)** |
-| **Prescription Support** | Optical partner required | Clip-in inserts | **Native German Optician Certification (Fielmann & Apollo partner network)** |
-| **Data Residency** | US cloud processing | Device / App dependent | **Local on-device processing + German / EU hosted encrypted cloud** |
-
-## 4. Go-to-Market Plan (GTM)
-### Phase 1: B2B Executive Pilot & Direct-to-Consumer Pre-Launch (Months 1–3)
-* Launch an exclusive "German Executive Founder Edition" targeting DAX corporate leaders, management consultants, and tech founders.
-* Provide corporate privacy certification packages (*Datenschutz-Zertifikat*) signed by German data privacy experts to facilitate corporate IT and Works Council approvals.
-* D2C online pre-orders with German localization (DE/EN bilingual interface, localized shipping from within the EU).
-
-### Phase 2: German Optical Retail Partnerships (Months 4–7)
-* Partner with independent German master opticians (*Augenoptikermeister*) and leading retail chains (Fielmann / Apollo-Optik) for in-store try-ons, precision lens grinding (*Sehstärke*), and frame fitting.
-* Showcase at major European optical and technology expos, including **Opti Munich** and **IFA Berlin**.
-
-### Phase 3: Enterprise B2B Licensing & Field Mobility (Months 8–12)
-* Introduce enterprise software suites: hands-free inspection checklists for German automotive/manufacturing engineers, logistics picking overlays, and encrypted VIP boardroom teleprompting.
+## 3. Channel & Go-To-Market Plan (Germany)
+1. **Direct-to-Consumer (D2C) Pre-Order Launch:** Transparent German-language landing page emphasizing DSGVO compliance, PAngV-compliant pricing (`inkl. 19 % MwSt.`), and side-by-side SKU clarity.
+2. **Optical Retail Partnerships:** Partner with German optical chains (e.g., Fielmann, Apollo-Optik) and independent opticians in Munich, Berlin, Hamburg, and Pforzheim for prescription glazing (*Sehstärke*).
+3. **B2B / Betriebsrat Compliance Kit:** Provide enterprise buyers with a pre-packaged DPIA template and hardware architecture whitepaper to streamline Works Council approval.
